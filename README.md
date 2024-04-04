@@ -1,1 +1,0 @@
-MONGODB_URI='mongodb+srv://makspodg77:ksfOcnn1700enZTh@cluster0.nnherhy.mongodb.net/bookingApp?retryWrites=true&w=majority' TEST_MONGODB_URI='mongodb+srv://makspodg77:ksfOcnn1700enZTh@cluster0.nnherhy.mongodb.net/bookingApp?retryWrites=true&w=majority' PORT=4000 SECRET='DORIS'
